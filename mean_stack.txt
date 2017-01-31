@@ -1,0 +1,11 @@
+MEAN stack
+
+Windows
+1. Download node.js
+    https://nodejs.org/en/download/
+
+2. Download MongoDB
+    https://www.mongodb.com/download-center?jmp=nav#bi-connector
+
+    https://docs.mongodb.com/manual/tutorial/install-mongodb-on-windows/#install-mongodb-community-edition
+    "C:\Program Files\MongoDB\Server\3.4\bin\mongod.exe" --dbpath C:\db\mongodb
